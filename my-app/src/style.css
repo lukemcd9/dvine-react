@@ -1,0 +1,21 @@
+#socialmenu {
+  background-color: orchid;
+}
+
+.socialItem {
+  color: white;
+}
+
+#menu {
+  box-shadow: none;
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.dvine-background {
+  background: url(http://courses.ics.hawaii.edu/ics314f19/morea/ui-frameworks/wod-dvine-glasses.png) no-repeat center center fixed;
+  background-size: cover;
+}
